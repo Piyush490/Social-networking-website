@@ -1,2 +1,3 @@
 # Social-networking-website
-To connect different people 
+A similar website like facebook to chat and to post contents.
+
